@@ -10,10 +10,11 @@
   border: 1px solid #ccc;
   padding: 80px;
   color: aliceblue;
-  width: 70%;
-  margin-left: 170px;
+  width: 40%;
+  margin-left: 580px;
   margin-top: 150px;
   margin-bottom: 150px;
+  background-color: rgba(0,0,0, .7);
 }
 
 .navbar  {
