@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HealthTracker"
+    }
+  },
+  "defaultProject": "HealthTracker",
+  "cli": {
+    "analytics": "394b235b-e193-4b81-9312-094ce276d9cc"
+  }
 }
