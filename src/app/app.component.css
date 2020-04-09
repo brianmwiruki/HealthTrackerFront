@@ -15,3 +15,7 @@
 .navbar a:hover {
   color: rgb(6, 255, 6);
 }
+
+.container-fluid{
+  background-color: #9feeff;
+}

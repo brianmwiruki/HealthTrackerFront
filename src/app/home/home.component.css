@@ -17,6 +17,8 @@ body{
 }
 
 .container .card{
+    border: none;
+    background: none;
     position: relative;
     cursor: pointer;
 }
@@ -29,7 +31,7 @@ body{
 
 .container .card .face.face1{
     position: relative;
-    background: #333;
+    background: #085895;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,7 +40,7 @@ body{
 }
 
 .container .card:hover .face.face1{
-    background: #ff0057;
+    background: #ff2400;
     transform: translateY(0);
 }
 
@@ -109,7 +111,12 @@ body{
   padding: 50px;
 }
 
+.info{
+  background: none;
+  border: none;
+  text-align: center;
 
+}
 
 
 .container-fluid{
