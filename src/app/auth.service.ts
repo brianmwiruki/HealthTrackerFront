@@ -8,5 +8,13 @@ import { Router } from '@angular/router';
 })
 export class AuthService {
 
-  constructor() { }
+  constructor(private http: HttpClient,
+              private _router: Router) { }
+
+
+registerUser(user){
+
+}
+loginUser(user){
+}
 }

@@ -15,19 +15,19 @@ export class RegisterComponent implements OnInit {
   ngOnInit() {
   }
 
-  registerUser(){
-    this._auth.registerUser(this.registerUserData)
-    .subscribe(
-      res => {
-        console.log(res)
-        localStorage.setItem('token', res.token)
-        this._router.navigate(['/special'])
-      },
-      err => console.log(err)
-
-
-    )
-
-  }
+  // registerUser(){
+  //   this._auth.registerUser(this.registerUserData)
+  //   .subscribe(
+  //     res => {
+  //       console.log(res)
+  //       localStorage.setItem('token', res.token)
+  //       this._router.navigate(['/special'])
+  //     },
+  //     err => console.log(err)
+  //
+  //
+  //   )
+  //
+  // }
 
 }
