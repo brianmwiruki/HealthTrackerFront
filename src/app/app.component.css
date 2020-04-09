@@ -12,13 +12,13 @@
   color: aliceblue;
   width: 40%;
   margin-left: 590px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  background-color: rgba(2, 0, 37, 0.7);
+  margin-top: 70px;
+  margin-bottom: 70px;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .navbar  {
-  background-color: aqua;
+  background-color: transparent;
   position: fixed;
   width: 100%;
 }
