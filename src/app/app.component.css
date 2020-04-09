@@ -140,10 +140,15 @@ body{
   color: red;
 }
 
+.cards {
+  text-align: center;
+  margin-top: 150px;
+}
+
 
 /* Responsive Styles */
-  @media screen and (max-width: 767px) {
-
+  @media screen and (max-width: 500px) {
+    .cardface,
     .card-container > *:not(.circle-link) ,
     .terminal {
       width: 100%;
