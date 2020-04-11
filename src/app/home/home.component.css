@@ -176,6 +176,7 @@ body{
   padding: 50px;
   height: 400px;
   margin-top: 150px;
+  color: aliceblue;
 }
 
 .clearfix::after {
