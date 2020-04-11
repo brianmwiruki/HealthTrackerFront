@@ -251,7 +251,7 @@ body{
 }
 
 .footer .footer-content .about .socials a:hover {
-  border: 1px solid white;
+  border: 1px solid rgb(0, 255, 251);
   color: white;
   transition: all .3s;
 }
