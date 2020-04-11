@@ -105,7 +105,7 @@ body{
 
 
 .big {
-  background-image: url("https://st2.depositphotos.com/2212272/5256/v/950/depositphotos_52560473-stock-illustration-medical-theme.jpg");
+  background-image: url("https://systemsinnovation.io/wp-content/uploads/2019/07/Health-Systems-Graphic.jpg");
   background-size: cover;
   text-align: center;
   padding: 50px;
@@ -115,7 +115,7 @@ body{
   background: none;
   border: none;
   text-align: center;
-
+  margin-top: 100px;
 }
 
 
@@ -174,7 +174,8 @@ body{
   float: left;
   width: 50%;
   padding: 50px;
-  height: 300px;
+  height: 400px;
+  margin-top: 150px;
 }
 
 .clearfix::after {
